@@ -1,7 +1,6 @@
 name: JD_Sign_Action
 
 on:
-    types: published
   # push:
   #   branches:
   #     - master
